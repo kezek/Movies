@@ -1,5 +1,5 @@
 /nbproject
-/public/.htaccess
-/public/assets
-/public/protected/runtime/application.log
-/public/protected/data/data.db
+/.htaccess
+/assets
+/protected/runtime/application.log
+/protected/data/data.db
